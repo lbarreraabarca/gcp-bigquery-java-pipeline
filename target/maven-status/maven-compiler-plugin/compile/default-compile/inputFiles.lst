@@ -1,0 +1,15 @@
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/models/EnvironmentVariables.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/adapters/Base64Encoder.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/App.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/exceptions/RequestException.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/config/SwaggerConfig.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/exceptions/EncoderException.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/adapters/StorageOperator.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/ports/Encoder.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/exceptions/EnvironmentException.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/models/Contract.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/exceptions/ServiceException.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/exceptions/ControllerException.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/ports/ObjectStorage.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/exceptions/ObjectStorageException.java
+/Users/lmbarrera/Documents/dev/GitHub/gcp-bigquery-java-pipeline/src/main/java/com/data/factory/services/Service.java

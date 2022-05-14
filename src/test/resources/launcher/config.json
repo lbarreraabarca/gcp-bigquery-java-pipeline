@@ -1,0 +1,6 @@
+{
+    "jarPath": "gs://my-bucket/path/0.0.1-SNAPSHOT-shaded.jar",
+    "mainClass": "com.falabella.products.App",
+    "clusterName": "cluster-name",
+    "region": "us-central1"
+}
